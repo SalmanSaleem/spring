@@ -1,0 +1,11 @@
+org/salman/springdatatest/spring/controller/TodoController.class
+org/salman/springdatatest/spring/config/ExampleApplicationContext.class
+org/salman/springdatatest/spring/config/Profiles.class
+org/salman/springdatatest/spring/jpa/BaseRepository.class
+org/salman/springdatatest/spring/service/TodoService.class
+org/salman/springdatatest/spring/config/ExampleApplicationContext$IntegrationTestProperties.class
+org/salman/springdatatest/spring/config/PersistenceContext.class
+org/salman/springdatatest/spring/dto/TodoDto.class
+org/salman/springdatatest/spring/jpa/todo/Todo.class
+org/salman/springdatatest/spring/config/ExampleApplicationContext$ApplicationProperties.class
+org/salman/springdatatest/spring/jpa/todo/TodoRepository.class
