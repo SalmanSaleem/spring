@@ -28,11 +28,11 @@ import java.util.Properties;
  * @author Petri Kainulainen
  */
 @Configuration
-@EnableJpaRepositories(basePackages = { "org.salman.spring.jpa.todo" })
+@EnableJpaRepositories(basePackages = { "org.salman.spring.jpa" })
 @EnableTransactionManagement
 @EnableSpringDataWebSupport
 class PersistenceContext {
-	private static final String[] ENTITY_PACKAGES = { "org.salman.spring.jpa.todo" };
+	private static final String[] ENTITY_PACKAGES = { "org.salman.spring.jpa" };
 
 	private static final String PROPERTY_NAME_DB_DRIVER_CLASS = "spring.datasource.driver";
 	private static final String PROPERTY_NAME_DB_PASSWORD = "spring.datasource.password";
