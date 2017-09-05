@@ -13,7 +13,7 @@ http://www.springframework.org/schema/mvc
 http://www.springframework.org/schema/mvc/spring-mvc-4.0.xsd"
 >
 
-<context:component-scan base-package="org.salman.springdatatest.spring" />
+<context:component-scan base-package="org.salman.spring" />
 <mvc:annotation-driven />
 
 </beans>
